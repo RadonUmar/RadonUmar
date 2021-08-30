@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm Radon, an aspiring software developer
+
+Languages I know are: C++, Java, Python, PHP, HTML CSS and JS
+I particpate in competitive programming and do Web development
 
 <!--
 **RadonUmar/RadonUmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
