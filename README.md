@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm Radon, an aspiring software developer
+### I'm Umar, an aspiring software developer
 
 Languages I know are: C++, Java, Python, PHP, HTML CSS and JS
 I particpate in competitive programming and do Web development
