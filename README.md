@@ -1,3 +1,5 @@
+[![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadonUmar)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋 
 ### I'm Umar, an aspiring software developer
 
