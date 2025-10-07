@@ -1,22 +1,23 @@
-[![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadonUmar)](https://github.com/anuraghazra/github-readme-stats)
+# Umar Ghani
 
-### Hi there 👋 
-### I'm Umar, an aspiring software developer
+I'm a developer who enjoys building across the stack — from low-level logic to high-level interfaces. My work spans full-stack web development, AI/ML, data-driven systems, and firmware.
 
-Languages I know are: C++, Java, Python, PHP, HTML CSS and JS
-I particpate in competitive programming and do Web development
+### 🛠️ Tech I work with
+- **Web**: React, Next.js, Node.js, Express, PHP
+- **Languages**: JavaScript/TypeScript, C++, Java, Python
+- **Back-End**: REST APIs, databases (SQL & NoSQL), authentication, server-side logic
+- **Firmware**: Low-level systems programming, hardware interaction
+- **OOP & Systems**: Strong background in object-oriented design and programming
 
-<!--
-**RadonUmar/RadonUmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Machine Learning
+I work with frameworks like **TensorFlow**, **PyTorch**, and **scikit-learn**, building and training models for tasks such as classification, computer vision, and basic NLP. I enjoy experimenting with architectures and optimizing models for real-world performance.
 
-Here are some ideas to get you started:
+### 📊 Data Science
+I’ve built pipelines and dashboards using **pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, primarily for data analysis, visualization, and insight generation from structured datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Philosophy
+**Build. Ship. Iterate.**  
+I believe in learning by doing — ideas mean little unless they’re built.
+
+### 🔗 **Connect with me**  
+- Visit my website: [umarghani.me](https://umarghani.me)
